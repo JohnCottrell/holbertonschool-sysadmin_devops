@@ -1,1 +1,0 @@
-This is a holbertonschool-sysadmin_devops project
