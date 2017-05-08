@@ -1,2 +1,2 @@
 #!/bin/bash
-setenv HOLBERTON Betty
+export HOLBERTON=Betty
